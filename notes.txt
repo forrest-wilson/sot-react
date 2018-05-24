@@ -1,0 +1,3 @@
+Destructuring:
+
+Use {item, anotherItem} to pull in props from an object
